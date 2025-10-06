@@ -244,17 +244,6 @@ If you use this code in your research, please cite the original paper:
 }
 ```
 
----
-
-## Related Repositories
-
-- [Simple-CCReID (Original)](https://github.com/guxinqian/Simple-CCReID)
-- [Simple-ReID](https://github.com/guxinqian/Simple-ReID)
-- [fast-reid](https://github.com/JDAI-CV/fast-reid)
-- [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
-
----
-
 ## License
 
 This project follows the same license as the original Simple-CCReID repository.
